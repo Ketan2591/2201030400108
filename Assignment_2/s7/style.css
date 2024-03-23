@@ -1,0 +1,161 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  width: 192px;
+  height: 192px;
+  position: absolute;
+  left: 624px;
+  top: 0px;
+  object-fit: cover;
+}
+.rectangle-2 {
+  opacity: 0.800000011920929;
+  width: 1440px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 192px;
+  overflow: visible;
+  object-fit: cover;
+}
+.rectangle-3 {
+  background: #fbfbfb;
+  border-radius: 20px;
+  opacity: 0.30000001192092896;
+  width: 463px;
+  height: 716px;
+  position: absolute;
+  left: 499px;
+  top: 250px;
+}
+.rectangle-8 {
+  background: #ffffff;
+  border-radius: 35px;
+  width: 389px;
+  height: 69px;
+  position: absolute;
+  left: 525px;
+  top: 857px;
+}
+.register {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 673px;
+  top: 877px;
+}
+.image-3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 525px;
+  top: 758px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: #d9d9d9;
+  border-radius: 35px;
+  opacity: 0.20000000298023224;
+  width: 389px;
+  height: 69px;
+  position: absolute;
+  left: 525px;
+  top: 397px;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  border-radius: 35px;
+  opacity: 0.20000000298023224;
+  width: 389px;
+  height: 69px;
+  position: absolute;
+  left: 525px;
+  top: 478px;
+}
+.rectangle-6 {
+  background: #d9d9d9;
+  border-radius: 35px;
+  opacity: 0.20000000298023224;
+  width: 389px;
+  height: 69px;
+  position: absolute;
+  left: 525px;
+  top: 559px;
+}
+.email-id {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 550px;
+  top: 584px;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  border-radius: 35px;
+  opacity: 0.20000000298023224;
+  width: 389px;
+  height: 69px;
+  position: absolute;
+  left: 525px;
+  top: 640px;
+}
+.password {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 549px;
+  top: 665px;
+}
+.first-name {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 549px;
+  top: 419px;
+}
+.last-name {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 550px;
+  top: 500px;
+}
+.create-account-in-sky-vr {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 578px;
+  top: 283px;
+}
