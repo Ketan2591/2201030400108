@@ -1,0 +1,533 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 4190px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #000000;
+  width: 1440px;
+  height: 121px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-3 {
+  background: #39bdc6;
+  border-radius: 50px;
+  width: 166px;
+  height: 44px;
+  position: absolute;
+  left: 1217px;
+  top: 47px;
+}
+.book-a-demo {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1237px;
+  top: 59px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1017px;
+  top: 55px;
+}
+.blogs {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 939px;
+  top: 55px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 820px;
+  top: 55px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 714px;
+  top: 55px;
+}
+.case-study {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 573px;
+  top: 55px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 495px;
+  top: 55px;
+}
+.rectangle-2 {
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  left: 46px;
+  top: 24px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: #650575;
+  width: 1440px;
+  height: 544px;
+  position: absolute;
+  left: 0px;
+  top: 121px;
+}
+.about-sky-vr {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 173px;
+  top: 287px;
+}
+.image-1 {
+  border-radius: 30px;
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  left: 933px;
+  top: 228px;
+  object-fit: cover;
+}
+.rectangle-5 {
+  background: #000000;
+  width: 1440px;
+  height: 305px;
+  position: absolute;
+  left: 0px;
+  top: 665px;
+}
+.sky-vr-is-an-award-winning-soft-skills-training-platform-with-vr-and-ai-integration-we-focus-on-communication-skills-such-as-public-speaking-sales-and-leadership-clients-include-universities-and-fortune-500-companies-around-the-world-including-imperial-college-business-school-and-vodafone-sky-vr-has-helped-over-550-000-users-across-125-countries-to-improve-their-skills-through-interactive-practice-exercises-and-has-been-featured-in-the-new-york-times-forbes-bbc-wall-street-journal-and-huffington-post {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 173px;
+  top: 731px;
+}
+.rectangle-6 {
+  background: #e5cbcb;
+  width: 1440px;
+  height: 1758px;
+  position: absolute;
+  left: 0px;
+  top: 970px;
+}
+.awe-confrence {
+  color: #a416a7;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 614px;
+  top: 2366px;
+}
+.forbes {
+  color: #a416a7;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 614px;
+  top: 2573px;
+}
+.bbc-business-live {
+  color: #a416a7;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 614px;
+  top: 2435px;
+}
+.the-new-york-times {
+  color: #a416a7;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 614px;
+  top: 2504px;
+}
+.sky-vr-was-founded-in-2016-as-a-way-to-practice-public-speaking-in-a-more-realistic-way-we-had-a-fear-of-public-speaking-to-the-point-of-avoiding-it-altogether-and-found-that-rehearsing-in-front-of-a-mirror-or-to-a-colleague-didn-t-prepare-us-for-being-on-stage-with-hundreds-of-people-staring-at-you-or-even-just-being-in-a-meeting-with-our-managers-we-came-up-with-a-solution-using-virtual-reality-vr-to-simulate-various-sized-audiences-and-distractions-resulting-in-an-effective-way-to-practice-public-speaking-and-build-skills-and-confidence-for-the-real-world-since-then-we-have-expanded-into-other-soft-skills-training-from-sales-pitching-to-interacting-with-the-media-and-worked-with-a-number-of-fortune-500-companies-to-enhance-their-employees-soft-skills-in-a-more-interactive-engaging-way {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 110px;
+  top: 1134px;
+}
+.our-story {
+  color: #3a42f1;
+  text-align: left;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 110px;
+  top: 1023px;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  width: 1440px;
+  height: 585px;
+  position: absolute;
+  left: 0px;
+  top: 1538px;
+}
+.ellipse-1 {
+  background: #963d3d;
+  border-radius: 50%;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  left: 383px;
+  top: 1709px;
+}
+.ellipse-2 {
+  background: #963d3d;
+  border-radius: 50%;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  left: 383px;
+  top: 1759px;
+}
+.ellipse-3 {
+  background: #963d3d;
+  border-radius: 50%;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  left: 383px;
+  top: 1808px;
+}
+.ellipse-4 {
+  background: #963d3d;
+  border-radius: 50%;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  left: 383px;
+  top: 1843px;
+}
+.ellipse-5 {
+  background: #963d3d;
+  border-radius: 50%;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  left: 383px;
+  top: 1893px;
+}
+.ellipse-6 {
+  background: #963d3d;
+  border-radius: 50%;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  left: 383px;
+  top: 1928px;
+}
+.ellipse-7 {
+  background: #963d3d;
+  border-radius: 50%;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  left: 383px;
+  top: 1977px;
+}
+.image-3 {
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  left: 60px;
+  top: 2285px;
+  object-fit: cover;
+}
+.rectangle-8 {
+  background: #000000;
+  width: 1440px;
+  height: 448px;
+  position: absolute;
+  left: 0px;
+  top: 2728px;
+}
+.image-4 {
+  border-radius: 30px;
+  width: 364px;
+  height: 243px;
+  position: absolute;
+  left: 82px;
+  top: 2830px;
+  object-fit: cover;
+}
+.image-5 {
+  width: 88px;
+  height: 84px;
+  position: absolute;
+  left: 510px;
+  top: 2989px;
+  object-fit: cover;
+}
+.image-6 {
+  width: 87px;
+  height: 84px;
+  position: absolute;
+  left: 800px;
+  top: 2989px;
+  object-fit: cover;
+}
+.image-7 {
+  width: 84px;
+  height: 84px;
+  position: absolute;
+  left: 1101px;
+  top: 2989px;
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: #16139c;
+  width: 1440px;
+  height: 1014px;
+  position: absolute;
+  left: 0px;
+  top: 3176px;
+}
+.image-25 {
+  width: 79px;
+  height: 79px;
+  position: absolute;
+  left: 1335px;
+  top: 4086px;
+  object-fit: cover;
+}
+.image-24 {
+  width: 84px;
+  height: 78.88px;
+  position: absolute;
+  left: 1234px;
+  top: 4087px;
+  object-fit: cover;
+}
+.image-23 {
+  width: 77px;
+  height: 61px;
+  position: absolute;
+  left: 1140px;
+  top: 4095px;
+  object-fit: cover;
+}
+.image-22 {
+  width: 84px;
+  height: 80px;
+  position: absolute;
+  left: 1039px;
+  top: 4082px;
+  object-fit: cover;
+}
+._2024-a-ti-studios-all-rights-reserved {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: true;
+  position: absolute;
+  left: 50px;
+  top: 4133px;
+}
+.support-contact-privacy-terms-affiliate-program-sitemap-faq {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 1123px;
+  top: 3635px;
+}
+.support-contact-privacy-terms-affiliate-program-sitemap-faq-span {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-style: true;
+}
+.support-contact-privacy-terms-affiliate-program-sitemap-faq-span2 {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: true;
+}
+.support-contact-privacy-terms-affiliate-program-sitemap-faq-span3 {
+  color: #ffffff;
+  font-family: "Inter-LightItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: true;
+}
+.products-sky-sky-for-businesses-sky-kids-sky-vr-sky-ar {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 736px;
+  top: 3635px;
+}
+.products-sky-sky-for-businesses-sky-kids-sky-vr-sky-ar-span {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-style: true;
+}
+.products-sky-sky-for-businesses-sky-kids-sky-vr-sky-ar-span2 {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: true;
+}
+.products-sky-sky-for-businesses-sky-kids-sky-vr-sky-ar-span3 {
+  color: #ffffff;
+  font-family: "Inter-LightItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: true;
+}
+.learn-more-learn-english-learn-french-learn-spanish-learn-german-learn-russian-learn-italian-learn-portuguese-learn-turkish-learn-chinese-learn-arabic-learn-japanese-learn-korean {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 383px;
+  top: 3635px;
+}
+.learn-more-learn-english-learn-french-learn-spanish-learn-german-learn-russian-learn-italian-learn-portuguese-learn-turkish-learn-chinese-learn-arabic-learn-japanese-learn-korean-span {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-style: true;
+}
+.learn-more-learn-english-learn-french-learn-spanish-learn-german-learn-russian-learn-italian-learn-portuguese-learn-turkish-learn-chinese-learn-arabic-learn-japanese-learn-korean-span2 {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: true;
+}
+.learn-more-learn-english-learn-french-learn-spanish-learn-german-learn-russian-learn-italian-learn-portuguese-learn-turkish-learn-chinese-learn-arabic-learn-japanese-learn-korean-span3 {
+  color: #ffffff;
+  font-family: "Inter-LightItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: true;
+}
+.sky-phrasebook-about-us-careers-sky-blog-press-pricing {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 84px;
+  top: 3648px;
+  width: 133px;
+  height: 254px;
+}
+.sky-phrasebook-about-us-careers-sky-blog-press-pricing-span {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-style: true;
+}
+.sky-phrasebook-about-us-careers-sky-blog-press-pricing-span2 {
+  color: #ffffff;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: true;
+}
+.sky-phrasebook-about-us-careers-sky-blog-press-pricing-span3 {
+  color: #ffffff;
+  font-family: "Inter-LightItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: true;
+}
+.image-21 {
+  width: 287px;
+  height: 98.6px;
+  position: absolute;
+  left: 736px;
+  top: 3400px;
+  object-fit: cover;
+}
+.image-20 {
+  width: 287px;
+  height: 105px;
+  position: absolute;
+  left: 340px;
+  top: 3400px;
+  object-fit: cover;
+}
+.download-sky-vr-and-immerse-yourself-in-language-learning {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  font-style: true;
+  position: absolute;
+  left: 236px;
+  top: 3230px;
+  width: 925px;
+}
